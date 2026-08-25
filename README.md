@@ -1,7 +1,7 @@
 # Hi there, I'm Rudraksh 👋
 
 ```text
-         ++++++++++++xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx++++++++++++++
+++++++++++++xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx++++++++++++++
 ++++++++++xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx++;:::::;;;::::::::::::::;+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx++++++++++++
 ++++++++xxxxxxxxxxxxxxxxxxxxxxxxx+++;;:::::::::::::::::::::::::::::::;+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx++++++++++
 ++++++xxxxxxxxxxxxxxxxxxxxxxxxxx+;;;::::::::::::::::::::::::::::::::::::;xxxxxxxxxxxxxxxxxxxxxxxxxxxx+++++++++
@@ -66,8 +66,9 @@ $$&&&&&&&&&&&&&x;+++++++++++++++$xx&&&&&&$&x$$XXXXXxxxx&&&&&&&&&+;;;;;;;;;;;;;;:
 ### 💻 About Me
 * 🚀 Software Developer specializing in Python, SQL, and database management.
 * 🛠️ Creator of **[SINFO](https://github.com/rudu2004/SINFO)** — an event-sourced investment ledger & portfolio management system.
-* 🎓 BCA Student passionate about clean backend architecture and modern UI/UX design.
-
+* 🏆 Lead developer of **[SALVUS](https://github.com/rudu2004/SALVUS)** — a rapid emergency response platform & 1st Place Winner at Idea Nest (WIP).
+* 🎓 Computer Applications student passionate about backend systems and modern UI/UX design.
+  
 ---
 
 ### 🛠️ Tech Stack & Tools
