@@ -63,26 +63,25 @@ $$&&&&&&&&&&&&&&X;+++++++++++++xX+&&&$&&&&$++$&&$XXxx&&&&&&&&&&&&+;;;;;;;;;;;;;;
 $$&&&&&&&&&&&&&x;+++++++++++++++$xx&&&&&&$&x$$XXXXXxxxx&&&&&&&&&+;;;;;;;;;;;;;;:::::;;;;;;;;;;;;;;;;;;;;;;;;;;                                                                      
 ```
 
-### 💻 About Me
-* 🚀 Software Developer specializing in Python, SQL, and database management.
-* 🛠️ Creator of **[SINFO](https://github.com/rudu2004/SINFO)** — an event-sourced investment ledger & portfolio management system.
-* 🏆 Lead developer of **[SALVUS](https://github.com/rudu2004/SALVUS)** — a rapid emergency response platform & 1st Place Winner at Idea Nest (WIP).
-* 🎓 Computer Applications student passionate about backend systems and modern UI/UX design.
-  
+## 💻 About Me
+
+* 🚀 Full-Stack Developer specializing in end-to-end application development, backend systems (Python, FastAPI), relational databases (SQL, SQLite), and modern responsive frontend interfaces.
+* 🛠️ Creator & Developer of [SINFO](https://github.com/rudu2004/SINFO) — an event-sourced investment ledger & financial tracking system engineered with Python and SQLite.
+* 🏛️ Developer & Creator of [KarmaYogi Pragya](https://github.com/rudu2004/KarmaYogi_Pragya) — an intelligent civil services statistical competency platform built end-to-end with FastAPI, vanilla web stack, local Sentence-BERT ML gap mapping, and a real-time supervisor telemetry hub.
+* 🏆 Lead developer of [SALVUS](https://github.com/rudu2004/Salvus) — emergency safety platform & 1st Place Winner at Idea Nest.
+* 🎓 Computer Applications student passionate about building complete, scalable web applications, robust APIs, and intuitive UI/UX experiences.
+
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudu2004&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
